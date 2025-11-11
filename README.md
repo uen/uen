@@ -1,3 +1,5 @@
-![Manolis Vrondakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=uen&count_private=true&show_icons=true&theme=dark)
-
-[https://manolisvrondakis.com](https://manolisvrondakis.com/)
+APHVN - [https://manolisvrondakis.com](https://manolisvrondakis.com/)
+Dreams to Life [https://dreamstolife.ai](https://dreamstolife.ai/)
+ShortForge [https://shortforge.ai](https://shortforge.ai)
+Picaday [https://picadayapp.com](https://picadayapp.com)
+Cohabitate [https://cohabitate.app](https://cohabitate.app)
